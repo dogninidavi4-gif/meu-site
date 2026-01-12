@@ -1,0 +1,6 @@
+nome = input('Qual o seu nome?') #pergunta o nome da pessoa e pede para digitar
+idade =input('Qual sua idade?') #pergunta a idade e pede para digitar
+print(nome,idade) #escreve o nome e a idade em uma frase, voce pode colocar algumas palavras se quizer
+
+print(9 + 3) #faz a soma dos 2 números
+print(94) #não possui aspas, pois, são números
